@@ -9,6 +9,7 @@ body {
 /* Header */
 header {
     background-color: #222;
+    background-color: #185ea9; /* Azul */
     color: white;
     padding: 15px;
     text-align: center;
@@ -18,6 +19,7 @@ header {
 /* Navigation */
 nav {
     background-color: #333;
+    background-color: #496078; /* Azul más oscuro */
     padding: 10px;
     text-align: center;
 }
@@ -49,6 +51,7 @@ input,
 select,
 textarea {
     width: 100%;
+    max-width: 95%;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
@@ -124,6 +127,7 @@ tr:nth-child(even) {
 /* Footer */
 footer {
     background: #222;
+    background: #007bff; /* Azul */
     color: white;
     text-align: center;
     padding: 10px;
